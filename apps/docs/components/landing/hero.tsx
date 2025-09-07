@@ -37,7 +37,8 @@ export default function Hero() {
 						<div className="self-center lg:self-start">
     						<div className="inline-flex items-center rounded-full border border-border bg-background/80 px-3 py-1 text-xs font-medium text-muted-foreground shadow backdrop-blur">
 								<span>Rejected by</span>
-								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="14" height="14" className="mx-1 inline-block align-[-2px]" aria-hidden="true" focusable="false">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="14" height="14" className="mx-1 inline-block align-[-2px]" aria-hidden="true" focusable="false">
+                  <title>Y Combinator logo</title>
 									<path d="M0 0h32v32H0z" fill="#f26625"/>
 									<path d="M14.933 18.133L9.387 7.787h2.56l3.2 6.507c0 .107.107.213.213.32s.107.213.213.427l.107.107v.107c.107.213.107.32.213.533.107.107.107.32.213.427.107-.32.32-.533.427-.96.107-.32.32-.64.533-.96l3.2-6.507h2.347L17.067 18.24v6.613h-2.133z" fill="#fff"/>
 									<path d="M-2.78-46.732h30v30h-30z" fill="#f26625"/>
